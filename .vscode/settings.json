@@ -1,0 +1,32 @@
+{
+  "files.associations": {
+    "*.scss": "scss",
+    "*.html": "vue-html"
+  },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Source Code Pro for Powerline,FiraCode, 'Source Code Pro', Consolas, 'Microsoft JhengHei', 'Courier New', monospace",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "workbench.editor.closeEmptyGroups": false,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "vetur.validation.template": false,
+  "git.confirmSync": false,
+  "cSpell.words": [
+    "batchdelete",
+    "errormsg",
+    "ironman",
+    "phonebook",
+    "phoneclass",
+    "quata",
+    "sendsms",
+    "smshistory",
+    "workinglog"
+  ],
+}

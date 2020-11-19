@@ -19,14 +19,18 @@
   "vetur.validation.template": false,
   "git.confirmSync": false,
   "cSpell.words": [
+    "EVENTVALIDATION",
+    "VIEWSTATE",
     "batchdelete",
     "errormsg",
+    "ipdatetime",
     "ironman",
     "phonebook",
     "phoneclass",
     "quata",
     "sendsms",
     "smshistory",
+    "userid",
     "workinglog"
   ],
 }
